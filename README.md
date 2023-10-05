@@ -11,6 +11,8 @@
 </div>
 
 <div>
-  Conheça melhor a Generation Brasil, um bootcamp extremamente conceituado em 17 paises!<br>
-  <a href="https://brazil.generation.org/" target="_blank">
+  <h2> 
+    Conheça melhor a Generation Brasil, um bootcamp extremamente conceituado em 17 paises!<br>
+  </h2>
+  <a href="https://brazil.generation.org/" target="_blank"/>
 </div>
