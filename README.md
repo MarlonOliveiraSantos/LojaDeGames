@@ -13,6 +13,6 @@
 <div>
   <h2> 
     Conheça melhor a Generation Brasil, um bootcamp extremamente conceituado em 17 paises!<br>
-    <a href="https://brazil.generation.org/" tittle="Generation"></a>
+    <a href="https://brazil.generation.org/" tittle="Generation">Generation</a>
   </h2>
 </div>
